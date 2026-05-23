@@ -1,0 +1,4857 @@
+[
+  {
+    "transaction_id": 36979184,
+    "customer_id": 8,
+    "timestamp": "2024-02-03T08:12:58.408221",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 80800851,
+    "customer_id": 25,
+    "timestamp": "2024-02-03T10:24:54.775634",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 4
+      },
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 26486004,
+    "customer_id": 9,
+    "timestamp": "2024-02-03T19:18:19.590609",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": null
+      },
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 85263843,
+    "customer_id": 12,
+    "timestamp": "2024-02-03T06:29:47.866732",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 23084058,
+    "customer_id": 18,
+    "timestamp": "2024-02-03T05:05:11.477100",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 10127186,
+    "customer_id": 11,
+    "timestamp": "2024-02-03T08:46:35.156848",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 19749785,
+    "customer_id": 15,
+    "timestamp": "2024-02-03T23:46:34.510567",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 21,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 72491157,
+    "customer_id": 4,
+    "timestamp": "2024-02-03T20:05:56.320284",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 2
+      },
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 82954327,
+    "customer_id": 30,
+    "timestamp": "2024-02-03T04:24:21.582314",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Nuts Filled Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 33879677,
+    "customer_id": 5,
+    "timestamp": "2024-02-03T22:20:52.785744",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 16181941,
+    "customer_id": 19,
+    "timestamp": "2024-02-03T17:08:22.848676",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Nuts Filled Coins",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 63040966,
+    "customer_id": 23,
+    "timestamp": "2024-02-03T03:56:18.755635",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Worms Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 78309512,
+    "customer_id": 18,
+    "timestamp": "2024-02-03T13:33:28.983392",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 20036826,
+    "customer_id": 13,
+    "timestamp": "2024-02-03T22:42:24.256655",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 2
+      },
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Nuts Filled Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 31287690,
+    "customer_id": 4,
+    "timestamp": "2024-02-03T06:26:41.154290",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 13455905,
+    "customer_id": 10,
+    "timestamp": "2024-02-03T14:22:46.317491",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 32778089,
+    "customer_id": 1,
+    "timestamp": "2024-02-03T03:53:11.598893",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 2
+      },
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 73347898,
+    "customer_id": 6,
+    "timestamp": "2024-02-03T10:04:35.490482",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 34839098,
+    "customer_id": 10,
+    "timestamp": "2024-02-03T00:30:01.511993",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 92259131,
+    "customer_id": 28,
+    "timestamp": "2024-02-03T12:12:41.968788",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Worms Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 58713224,
+    "customer_id": 9,
+    "timestamp": "2024-02-03T00:58:39.851341",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 6503461,
+    "customer_id": 11,
+    "timestamp": "2024-02-03T22:15:15.180019",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 3
+      },
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 4
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Worms Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 78932982,
+    "customer_id": 14,
+    "timestamp": "2024-02-03T04:59:12.235632",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 57977619,
+    "customer_id": 25,
+    "timestamp": "2024-02-03T07:14:03.257707",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 5,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 44560546,
+    "customer_id": 29,
+    "timestamp": "2024-02-03T17:11:33.666416",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 4
+      },
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 16678688,
+    "customer_id": 30,
+    "timestamp": "2024-02-03T18:12:43.005051",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 83965235,
+    "customer_id": 28,
+    "timestamp": "2024-02-03T22:00:16.727556",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 91379643,
+    "customer_id": 24,
+    "timestamp": "2024-02-03T17:12:51.543204",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 43881898,
+    "customer_id": 6,
+    "timestamp": "2024-02-03T11:57:00.585835",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 85010459,
+    "customer_id": 19,
+    "timestamp": "2024-02-03T12:57:54.630489",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 87527178,
+    "customer_id": 22,
+    "timestamp": "2024-02-03T15:52:17.912064",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 31361252,
+    "customer_id": 21,
+    "timestamp": "2024-02-03T04:09:26.349794",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Worms Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 57035138,
+    "customer_id": 26,
+    "timestamp": "2024-02-03T08:07:46.814367",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 28299765,
+    "customer_id": 1,
+    "timestamp": "2024-02-03T02:52:13.811365",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 79430268,
+    "customer_id": 4,
+    "timestamp": "2024-02-03T13:01:26.317519",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 40946112,
+    "customer_id": 5,
+    "timestamp": "2024-02-03T14:40:51.186604",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 36278789,
+    "customer_id": 27,
+    "timestamp": "2024-02-03T10:13:40.022509",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 5
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Worms Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 82161393,
+    "customer_id": 23,
+    "timestamp": "2024-02-03T00:36:07.456634",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 16891673,
+    "customer_id": 21,
+    "timestamp": "2024-02-03T15:41:39.487834",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Worms Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 60428190,
+    "customer_id": 6,
+    "timestamp": "2024-02-03T10:21:46.347666",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 7156784,
+    "customer_id": 1,
+    "timestamp": "2024-02-03T00:19:13.479371",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 13780119,
+    "customer_id": 14,
+    "timestamp": "2024-02-03T03:01:54.860428",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 4652058,
+    "customer_id": 1,
+    "timestamp": "2024-02-03T22:29:23.537553",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Worms Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 5,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 5994474,
+    "customer_id": 28,
+    "timestamp": "2024-02-03T09:40:17.117913",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Milk/Dark/White Clusters Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 59170235,
+    "customer_id": 4,
+    "timestamp": "2024-02-03T03:00:45.288039",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 2469795,
+    "customer_id": 23,
+    "timestamp": "2024-02-03T14:40:22.556730",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 15842290,
+    "customer_id": 1,
+    "timestamp": "2024-02-03T13:01:52.077788",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 46077650,
+    "customer_id": 28,
+    "timestamp": "2024-02-03T12:06:30.369081",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 2
+      },
+      {
+        "product_id": 17,
+        "product_name": "Milk/Dark/White Clusters Blocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 53005902,
+    "customer_id": 10,
+    "timestamp": "2024-02-03T00:23:04.890177",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Nuts Filled Coins",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 36145155,
+    "customer_id": 17,
+    "timestamp": "2024-02-03T10:18:16.127589",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 43631114,
+    "customer_id": 24,
+    "timestamp": "2024-02-03T06:09:45.625235",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 69905944,
+    "customer_id": 17,
+    "timestamp": "2024-02-03T11:00:53.134315",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 17,
+        "product_name": "Milk/Dark/White Clusters Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 5
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 15560116,
+    "customer_id": 10,
+    "timestamp": "2024-02-03T13:38:13.840543",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": null
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 64572864,
+    "customer_id": 17,
+    "timestamp": "2024-02-03T10:07:00.768331",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 29754732,
+    "customer_id": 24,
+    "timestamp": "2024-02-03T17:23:46.471397",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": null
+      },
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 26629556,
+    "customer_id": 28,
+    "timestamp": "2024-02-03T11:38:26.930176",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 5,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 14324317,
+    "customer_id": 27,
+    "timestamp": "2024-02-03T11:31:10.058595",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": null
+      },
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 88675413,
+    "customer_id": 12,
+    "timestamp": "2024-02-03T07:16:06.028551",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": null
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 42906657,
+    "customer_id": 15,
+    "timestamp": "2024-02-03T11:31:42.475949",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 21,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 15468713,
+    "customer_id": 22,
+    "timestamp": "2024-02-03T16:47:27.709231",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": null
+      },
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 5,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 19902648,
+    "customer_id": 12,
+    "timestamp": "2024-02-03T08:17:17.338301",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 503726,
+    "customer_id": 3,
+    "timestamp": "2024-02-03T06:53:23.488835",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": null
+      },
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 3
+      },
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 29622939,
+    "customer_id": 2,
+    "timestamp": "2024-02-03T21:06:21.938544",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 5,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 10069053,
+    "customer_id": 16,
+    "timestamp": "2024-02-03T07:32:03.252723",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 44317825,
+    "customer_id": 27,
+    "timestamp": "2024-02-03T21:44:06.640305",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 90014439,
+    "customer_id": 3,
+    "timestamp": "2024-02-03T06:42:15.523747",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 31284748,
+    "customer_id": 4,
+    "timestamp": "2024-02-03T04:28:02.170658",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 74884144,
+    "customer_id": 27,
+    "timestamp": "2024-02-03T00:40:19.536550",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 99001101,
+    "customer_id": 22,
+    "timestamp": "2024-02-03T10:38:47.102332",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 13912381,
+    "customer_id": 9,
+    "timestamp": "2024-02-03T19:26:22.170808",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 67557345,
+    "customer_id": 13,
+    "timestamp": "2024-02-03T00:21:47.937630",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 65297683,
+    "customer_id": 6,
+    "timestamp": "2024-02-03T07:43:11.637201",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": null
+      },
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 9497918,
+    "customer_id": 27,
+    "timestamp": "2024-02-03T17:39:22.972993",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 91086981,
+    "customer_id": 10,
+    "timestamp": "2024-02-03T03:57:55.129762",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 36434946,
+    "customer_id": 28,
+    "timestamp": "2024-02-03T06:53:04.905732",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": 3
+      },
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 39459722,
+    "customer_id": 1,
+    "timestamp": "2024-02-03T22:14:25.169133",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 69501479,
+    "customer_id": 23,
+    "timestamp": "2024-02-03T11:37:45.906148",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 17,
+        "product_name": "Milk/Dark/White Clusters Blocks",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 73383260,
+    "customer_id": 26,
+    "timestamp": "2024-02-03T05:38:06.366183",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 2
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 23794541,
+    "customer_id": 13,
+    "timestamp": "2024-02-03T15:37:46.367814",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": null
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Worms Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 9648799,
+    "customer_id": 11,
+    "timestamp": "2024-02-03T22:05:59.327867",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 30396765,
+    "customer_id": 21,
+    "timestamp": "2024-02-03T07:42:29.916731",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": null
+      },
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 53143572,
+    "customer_id": 14,
+    "timestamp": "2024-02-03T20:15:58.351480",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 53328405,
+    "customer_id": 28,
+    "timestamp": "2024-02-03T00:24:07.987422",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 41119998,
+    "customer_id": 15,
+    "timestamp": "2024-02-03T16:17:13.631538",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": null
+      },
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 46287284,
+    "customer_id": 12,
+    "timestamp": "2024-02-03T23:30:00.138137",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 16,
+        "product_name": "Nuts Filled Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 80275165,
+    "customer_id": 9,
+    "timestamp": "2024-02-03T15:37:59.964067",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Worms Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 59812171,
+    "customer_id": 2,
+    "timestamp": "2024-02-03T04:25:53.852163",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 5
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 15178385,
+    "customer_id": 15,
+    "timestamp": "2024-02-03T18:43:31.858747",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Nuts Filled Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 60320985,
+    "customer_id": 5,
+    "timestamp": "2024-02-03T16:32:54.383255",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 4868100,
+    "customer_id": 23,
+    "timestamp": "2024-02-03T04:55:39.151551",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 19000751,
+    "customer_id": 21,
+    "timestamp": "2024-02-03T05:14:35.662869",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 38572738,
+    "customer_id": 12,
+    "timestamp": "2024-02-03T12:53:35.773857",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 1975993,
+    "customer_id": 30,
+    "timestamp": "2024-02-03T09:37:17.347063",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 88735488,
+    "customer_id": 15,
+    "timestamp": "2024-02-03T23:17:47.884708",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 71555474,
+    "customer_id": 27,
+    "timestamp": "2024-02-03T03:09:29.039226",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 52087358,
+    "customer_id": 3,
+    "timestamp": "2024-02-03T12:02:01.122732",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 46819785,
+    "customer_id": 20,
+    "timestamp": "2024-02-03T22:11:42.011262",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 68314563,
+    "customer_id": 6,
+    "timestamp": "2024-02-03T14:15:41.224797",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 24747736,
+    "customer_id": 15,
+    "timestamp": "2024-02-03T13:07:26.203928",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 2
+      },
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 58468491,
+    "customer_id": 7,
+    "timestamp": "2024-02-03T02:15:41.905854",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Milk/Dark/White Clusters Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 3
+      },
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 3040684,
+    "customer_id": 13,
+    "timestamp": "2024-02-03T20:58:27.663846",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 85489707,
+    "customer_id": 20,
+    "timestamp": "2024-02-03T15:38:18.419705",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 32924543,
+    "customer_id": 8,
+    "timestamp": "2024-02-03T00:57:00.938307",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": null
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 13044613,
+    "customer_id": 16,
+    "timestamp": "2024-02-03T17:59:33.766405",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 52359512,
+    "customer_id": 26,
+    "timestamp": "2024-02-03T09:13:26.106120",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Worms Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 76412492,
+    "customer_id": 24,
+    "timestamp": "2024-02-03T23:20:11.807488",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 3
+      },
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 44794858,
+    "customer_id": 27,
+    "timestamp": "2024-02-03T04:11:28.014426",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 21384133,
+    "customer_id": 29,
+    "timestamp": "2024-02-03T21:20:23.228843",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 3
+      },
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 72933226,
+    "customer_id": 30,
+    "timestamp": "2024-02-03T03:07:42.725015",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 2
+      },
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 87713595,
+    "customer_id": 13,
+    "timestamp": "2024-02-03T07:32:00.502114",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 17,
+        "product_name": "Milk/Dark/White Clusters Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": null
+      },
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 50887266,
+    "customer_id": 26,
+    "timestamp": "2024-02-03T14:40:33.715804",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 2
+      },
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 77453603,
+    "customer_id": 13,
+    "timestamp": "2024-02-03T12:31:23.126911",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 46691747,
+    "customer_id": 21,
+    "timestamp": "2024-02-03T14:26:10.016833",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 18928013,
+    "customer_id": 14,
+    "timestamp": "2024-02-03T13:19:00.890416",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 72561671,
+    "customer_id": 4,
+    "timestamp": "2024-02-03T12:51:54.849208",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": 5
+      },
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 39862506,
+    "customer_id": 24,
+    "timestamp": "2024-02-03T20:08:36.981926",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 61695606,
+    "customer_id": 1,
+    "timestamp": "2024-02-03T13:48:15.791296",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 64885487,
+    "customer_id": 21,
+    "timestamp": "2024-02-03T23:40:56.273573",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 47042267,
+    "customer_id": 16,
+    "timestamp": "2024-02-03T16:09:27.308188",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 55705168,
+    "customer_id": 16,
+    "timestamp": "2024-02-03T09:21:39.415722",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": null
+      },
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 77524557,
+    "customer_id": 18,
+    "timestamp": "2024-02-03T21:47:56.450327",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 29119921,
+    "customer_id": 21,
+    "timestamp": "2024-02-03T07:18:37.664958",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 2
+      },
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": null
+      },
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 29650975,
+    "customer_id": 26,
+    "timestamp": "2024-02-03T16:57:50.261294",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 19859545,
+    "customer_id": 14,
+    "timestamp": "2024-02-03T01:50:51.306264",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 83015107,
+    "customer_id": 1,
+    "timestamp": "2024-02-03T20:00:18.205852",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": null
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 73880918,
+    "customer_id": 23,
+    "timestamp": "2024-02-03T11:11:13.420814",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 10206420,
+    "customer_id": 17,
+    "timestamp": "2024-02-03T10:16:28.762062",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Nuts Filled Coins",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 3655679,
+    "customer_id": 8,
+    "timestamp": "2024-02-03T02:14:18.698001",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 2
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 87554774,
+    "customer_id": 25,
+    "timestamp": "2024-02-03T22:44:31.941703",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 37005467,
+    "customer_id": 17,
+    "timestamp": "2024-02-03T09:51:15.894970",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 2
+      },
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 88127831,
+    "customer_id": 16,
+    "timestamp": "2024-02-03T02:03:53.334774",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 78912201,
+    "customer_id": 29,
+    "timestamp": "2024-02-03T03:10:28.962865",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": null
+      },
+      {
+        "product_id": 16,
+        "product_name": "Nuts Filled Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": null
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 44700211,
+    "customer_id": 27,
+    "timestamp": "2024-02-03T21:01:40.722346",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 5124518,
+    "customer_id": 2,
+    "timestamp": "2024-02-03T02:07:44.900235",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 58612403,
+    "customer_id": 24,
+    "timestamp": "2024-02-03T05:03:29.617516",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 6536921,
+    "customer_id": 29,
+    "timestamp": "2024-02-03T09:04:19.300277",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 2343972,
+    "customer_id": 27,
+    "timestamp": "2024-02-03T05:13:39.978013",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Nuts Filled Coins",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 61595018,
+    "customer_id": 12,
+    "timestamp": "2024-02-03T14:35:46.450394",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 40306064,
+    "customer_id": 13,
+    "timestamp": "2024-02-03T10:19:01.295290",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": null
+      },
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 96555327,
+    "customer_id": 25,
+    "timestamp": "2024-02-03T12:44:40.327335",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 34655686,
+    "customer_id": 20,
+    "timestamp": "2024-02-03T18:50:32.447981",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": null
+      },
+      {
+        "product_id": 21,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 93957192,
+    "customer_id": 18,
+    "timestamp": "2024-02-03T17:29:02.137942",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 35667217,
+    "customer_id": 7,
+    "timestamp": "2024-02-03T12:58:00.405351",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": 5
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 25145980,
+    "customer_id": 27,
+    "timestamp": "2024-02-03T07:26:22.294847",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 16202854,
+    "customer_id": 10,
+    "timestamp": "2024-02-03T23:22:21.006744",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 90826078,
+    "customer_id": 10,
+    "timestamp": "2024-02-03T23:16:47.404600",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 68414782,
+    "customer_id": 4,
+    "timestamp": "2024-02-03T22:59:58.844997",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 35168361,
+    "customer_id": 22,
+    "timestamp": "2024-02-03T21:31:23.373772",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": null
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 13214479,
+    "customer_id": 15,
+    "timestamp": "2024-02-03T05:43:52.668439",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 77335136,
+    "customer_id": 18,
+    "timestamp": "2024-02-03T23:50:28.852818",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Worms Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 81129832,
+    "customer_id": 29,
+    "timestamp": "2024-02-03T16:50:46.763805",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 57429494,
+    "customer_id": 9,
+    "timestamp": "2024-02-03T11:32:30.710909",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 81274501,
+    "customer_id": 5,
+    "timestamp": "2024-02-03T04:52:53.298904",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 91206560,
+    "customer_id": 5,
+    "timestamp": "2024-02-03T17:54:47.856323",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 86343861,
+    "customer_id": 22,
+    "timestamp": "2024-02-03T09:53:32.431901",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 50065563,
+    "customer_id": 18,
+    "timestamp": "2024-02-03T06:29:41.109827",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 47670160,
+    "customer_id": 12,
+    "timestamp": "2024-02-03T03:36:30.126977",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": null
+      },
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 86242488,
+    "customer_id": 22,
+    "timestamp": "2024-02-03T12:45:03.114836",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Nuts Filled Coins",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 85685812,
+    "customer_id": 3,
+    "timestamp": "2024-02-03T18:34:06.495430",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 69146122,
+    "customer_id": 3,
+    "timestamp": "2024-02-03T02:35:55.285222",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 5,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 86533578,
+    "customer_id": 10,
+    "timestamp": "2024-02-03T12:47:59.695880",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 56079177,
+    "customer_id": 6,
+    "timestamp": "2024-02-03T20:41:12.820001",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 69543951,
+    "customer_id": 24,
+    "timestamp": "2024-02-03T03:04:29.678951",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Worms Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 3
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 46137545,
+    "customer_id": 15,
+    "timestamp": "2024-02-03T16:09:10.997541",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 60549475,
+    "customer_id": 7,
+    "timestamp": "2024-02-03T04:21:32.999352",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": null
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 10660452,
+    "customer_id": 26,
+    "timestamp": "2024-02-03T00:21:26.248935",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 77502452,
+    "customer_id": 6,
+    "timestamp": "2024-02-03T10:18:05.707521",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": null
+      },
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 49183966,
+    "customer_id": 15,
+    "timestamp": "2024-02-03T06:28:00.863302",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 74999828,
+    "customer_id": 25,
+    "timestamp": "2024-02-03T11:58:56.721197",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Nuts Filled Coins",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 76503499,
+    "customer_id": 13,
+    "timestamp": "2024-02-03T19:04:18.472419",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 88562497,
+    "customer_id": 3,
+    "timestamp": "2024-02-03T17:52:29.404603",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 10462287,
+    "customer_id": 8,
+    "timestamp": "2024-02-03T23:39:14.306691",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 12369497,
+    "customer_id": 2,
+    "timestamp": "2024-02-03T02:12:17.751350",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 81311229,
+    "customer_id": 3,
+    "timestamp": "2024-02-03T21:03:06.581157",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 1
+      },
+      {
+        "product_id": 21,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 45262769,
+    "customer_id": 26,
+    "timestamp": "2024-02-03T23:04:18.703039",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 5,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 59019108,
+    "customer_id": 3,
+    "timestamp": "2024-02-03T02:25:25.258482",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 86956423,
+    "customer_id": 2,
+    "timestamp": "2024-02-03T06:20:56.088780",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 83156108,
+    "customer_id": 7,
+    "timestamp": "2024-02-03T11:55:29.277174",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 15560276,
+    "customer_id": 3,
+    "timestamp": "2024-02-03T10:48:43.962636",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 85003545,
+    "customer_id": 4,
+    "timestamp": "2024-02-03T01:44:47.799402",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 34428554,
+    "customer_id": 27,
+    "timestamp": "2024-02-03T14:42:43.131923",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 85177823,
+    "customer_id": 5,
+    "timestamp": "2024-02-03T18:44:23.045366",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 80418363,
+    "customer_id": 24,
+    "timestamp": "2024-02-03T23:28:27.268494",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 16,
+        "product_name": "Nuts Filled Coins",
+        "qty": 5
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 76446103,
+    "customer_id": 25,
+    "timestamp": "2024-02-03T22:28:10.332955",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": null
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 85776062,
+    "customer_id": 10,
+    "timestamp": "2024-02-03T06:02:32.885939",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 16,
+        "product_name": "Nuts Filled Coins",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 75257481,
+    "customer_id": 9,
+    "timestamp": "2024-02-03T10:10:53.713003",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 2
+      },
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 137150,
+    "customer_id": 7,
+    "timestamp": "2024-02-03T12:32:52.477033",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 15766538,
+    "customer_id": 19,
+    "timestamp": "2024-02-03T02:19:33.972508",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 41638599,
+    "customer_id": 1,
+    "timestamp": "2024-02-03T03:45:23.278276",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 60900464,
+    "customer_id": 10,
+    "timestamp": "2024-02-03T08:04:48.838974",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": null
+      },
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 64418637,
+    "customer_id": 16,
+    "timestamp": "2024-02-03T15:22:31.331728",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 2
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 45372494,
+    "customer_id": 11,
+    "timestamp": "2024-02-03T18:28:37.482775",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Nuts Truffles Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Vitamin Coating Hard Medicated Drops",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 51707987,
+    "customer_id": 14,
+    "timestamp": "2024-02-03T04:12:32.303171",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 18560350,
+    "customer_id": 28,
+    "timestamp": "2024-02-03T12:24:15.490091",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Worms Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 44331619,
+    "customer_id": 8,
+    "timestamp": "2024-02-03T06:00:59.655485",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Milk/Dark/White Filled Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 54665756,
+    "customer_id": 17,
+    "timestamp": "2024-02-03T15:10:24.385399",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 5,
+        "product_name": "Vitamin Coating Hard Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Vitamin Coating Lozenges Standard",
+        "qty": null
+      },
+      {
+        "product_id": 31,
+        "product_name": "Translucent Worms Giant",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 39866343,
+    "customer_id": 2,
+    "timestamp": "2024-02-03T10:56:45.433154",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 17,
+        "product_name": "Milk/Dark/White Clusters Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 41556201,
+    "customer_id": 4,
+    "timestamp": "2024-02-03T06:59:56.528698",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Milk/Dark/White Clusters Coins",
+        "qty": 2
+      },
+      {
+        "product_id": 34,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 1,
+        "product_name": "Vitamin Coating Gummy Standard",
+        "qty": null
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 77130392,
+    "customer_id": 13,
+    "timestamp": "2024-02-03T21:31:48.158638",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 82780554,
+    "customer_id": 4,
+    "timestamp": "2024-02-03T21:52:07.620898",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 11268918,
+    "customer_id": 21,
+    "timestamp": "2024-02-03T13:40:03.675576",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 33,
+        "product_name": "Translucent Bears Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 67572486,
+    "customer_id": 19,
+    "timestamp": "2024-02-03T01:19:59.986617",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Vitamin Coating Lozenges Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 5038230,
+    "customer_id": 25,
+    "timestamp": "2024-02-03T04:18:46.000265",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Nuts Clusters Coins",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Natural Dyes Lozenges Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 13,
+        "product_name": "Milk/Dark/White Filled Blocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 38818660,
+    "customer_id": 22,
+    "timestamp": "2024-02-03T05:29:31.195344",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 35,
+        "product_name": "Translucent Bears Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Natural Dyes Hard Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Worms Standard",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 26158267,
+    "customer_id": 3,
+    "timestamp": "2024-02-03T07:37:36.648759",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Natural Dyes Gummy Medicated Drops",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 4
+      },
+      {
+        "product_id": 26,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 82148771,
+    "customer_id": 16,
+    "timestamp": "2024-02-03T15:23:29.607246",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Nuts Truffles Blocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 87668486,
+    "customer_id": 22,
+    "timestamp": "2024-02-03T21:09:39.405255",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Natural Dyes Lozenges Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 2,
+        "product_name": "Natural Dyes Gummy Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Nuts Filled Blocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 59752698,
+    "customer_id": 11,
+    "timestamp": "2024-02-03T19:33:12.180561",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Vitamin Coating Gummy Medicated Drops",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Nuts Filled Coins",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 28,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 36385490,
+    "customer_id": 26,
+    "timestamp": "2024-02-03T01:40:33.509732",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 18,
+        "product_name": "Nuts Clusters Blocks",
+        "qty": 2
+      },
+      {
+        "product_id": 23,
+        "product_name": "Milk/Dark/White Truffles Coins",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 24435964,
+    "customer_id": 26,
+    "timestamp": "2024-02-03T13:16:50.695322",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Natural Dyes Hard Medicated Drops",
+        "qty": 5
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Rings Giant",
+        "qty": 5
+      }
+    ]
+  }
+]

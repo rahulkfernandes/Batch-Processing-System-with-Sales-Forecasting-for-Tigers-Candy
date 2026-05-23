@@ -1,0 +1,37 @@
+product_id,product_name,product_category,product_subcategory,product_shape,sales_price,cost_to_make,stock
+1,Vitamin Coating Gummy Standard,Sugar-Free,Gummy,Standard,5.89,3.82,3315
+2,Natural Dyes Gummy Standard,Sugar-Free,Gummy,Standard,5.82,3.74,2581
+3,Vitamin Coating Gummy Medicated Drops,Sugar-Free,Gummy,Medicated Drops,4.42,2.29,3697
+4,Natural Dyes Gummy Medicated Drops,Sugar-Free,Gummy,Medicated Drops,3.22,1.48,3270
+5,Vitamin Coating Hard Standard,Sugar-Free,Hard,Standard,2.5,1.69,4970
+6,Natural Dyes Hard Standard,Sugar-Free,Hard,Standard,5.28,2.44,2407
+7,Vitamin Coating Hard Medicated Drops,Sugar-Free,Hard,Medicated Drops,4.18,2.45,2267
+8,Natural Dyes Hard Medicated Drops,Sugar-Free,Hard,Medicated Drops,2.99,1.91,4487
+9,Vitamin Coating Lozenges Standard,Sugar-Free,Lozenges,Standard,4.03,1.66,2384
+10,Natural Dyes Lozenges Standard,Sugar-Free,Lozenges,Standard,2.58,1.14,3000
+11,Vitamin Coating Lozenges Medicated Drops,Sugar-Free,Lozenges,Medicated Drops,3.1,2.08,4566
+12,Natural Dyes Lozenges Medicated Drops,Sugar-Free,Lozenges,Medicated Drops,8.13,4.96,4595
+13,Milk/Dark/White Filled Blocks,Chocolate,Filled,Blocks,3.41,2.3,3115
+14,Nuts Filled Blocks,Chocolate,Filled,Blocks,1.96,1.07,4641
+15,Milk/Dark/White Filled Coins,Chocolate,Filled,Coins,6.5,2.97,4183
+16,Nuts Filled Coins,Chocolate,Filled,Coins,2.26,1.45,3645
+17,Milk/Dark/White Clusters Blocks,Chocolate,Clusters,Blocks,2.56,1.23,3986
+18,Nuts Clusters Blocks,Chocolate,Clusters,Blocks,7.82,3.73,4306
+19,Milk/Dark/White Clusters Coins,Chocolate,Clusters,Coins,1.11,0.56,4077
+20,Nuts Clusters Coins,Chocolate,Clusters,Coins,5.92,2.47,3808
+21,Milk/Dark/White Truffles Blocks,Chocolate,Truffles,Blocks,7.32,3.21,4824
+22,Nuts Truffles Blocks,Chocolate,Truffles,Blocks,3.96,2.74,2111
+23,Milk/Dark/White Truffles Coins,Chocolate,Truffles,Coins,8.86,5.75,3601
+24,Nuts Truffles Coins,Chocolate,Truffles,Coins,4.11,2.78,4551
+25,Translucent Rings Standard,Gummies & Jellies,Rings,Standard,5.24,2.8,2807
+26,Sour Sugar Rings Standard,Gummies & Jellies,Rings,Standard,9.25,5.7,3407
+27,Translucent Rings Giant,Gummies & Jellies,Rings,Giant,1.29,0.67,2679
+28,Sour Sugar Rings Giant,Gummies & Jellies,Rings,Giant,7.66,5.13,2260
+29,Translucent Worms Standard,Gummies & Jellies,Worms,Standard,8.11,3.42,4863
+30,Sour Sugar Worms Standard,Gummies & Jellies,Worms,Standard,7.23,3.9,2560
+31,Translucent Worms Giant,Gummies & Jellies,Worms,Giant,9.83,5.36,4370
+32,Sour Sugar Worms Giant,Gummies & Jellies,Worms,Giant,7.25,4.76,3390
+33,Translucent Bears Standard,Gummies & Jellies,Bears,Standard,1.65,0.85,3039
+34,Sour Sugar Bears Standard,Gummies & Jellies,Bears,Standard,6.37,3.48,2209
+35,Translucent Bears Giant,Gummies & Jellies,Bears,Giant,7.91,3.38,3181
+36,Sour Sugar Bears Giant,Gummies & Jellies,Bears,Giant,0.57,0.39,4625
